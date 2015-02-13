@@ -5,6 +5,6 @@ tagline:
 ---
 
 
-
+<img src="resume.png"/>
 
 
