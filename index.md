@@ -5,7 +5,7 @@ tagline:
 ---
 
 
-![Page 1](/images/Resume_1.png)
-![Page 2](/images/Resume_2.png)
+![Page 1](/images/Resume_1.png){: .img-responsive }
+![Page 2](/images/Resume_2.png){: .img-responsive }
 
 
