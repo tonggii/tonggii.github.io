@@ -5,6 +5,7 @@ tagline:
 ---
 
 
-<img src="resume.png"/>
+![Page 1](/images/Resume_1.png)
+![Page 2](/images/Resume_2.png)
 
 
